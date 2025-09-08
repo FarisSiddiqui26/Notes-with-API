@@ -1,4 +1,4 @@
-Notes and API App
+Notes and API App 
 This Flutter project demonstrates a multi-featured application with local note-taking, API data fetching, and dynamic theming.
 
 Project Setup
